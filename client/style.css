@@ -136,20 +136,20 @@ h1,h2,h3,h4,h5,h6 {
 blockquote {
   padding: 3px 10px;
   margin: 3px;
-  border-left: 5px solid #4e4e4e;
+  border-left: 5px solid #cefefe;
 }
 code {
   padding: 2px 4px;
   font-size: 90%;
-  color: #000000;
-  background-color: #4e4e4e;
+  color: #fefefe;
+  background-color: #cefefe;
   border-radius: 4px;
 }
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #4e4e4e;
+  border-top: 1px solid #cefefe;
 }
 mark {
   background-color: #60ac39;
@@ -164,8 +164,8 @@ pre {
   color: #797979;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #4e4e4e;
-  border: 1px solid #000;
+  background-color: #cefefe;
+  border: 1px solid #cefefe;
   border-radius: 4px;
 }
 table {
@@ -181,13 +181,13 @@ table > caption + thead > tr:first-child > th, table > colgroup + thead > tr:fir
 }
 table > thead > tr > th {
     vertical-align: bottom;
-    border-bottom: 2px solid #4e4e4e;
+    border-bottom: 2px solid #cefefe;
 }
 table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th, table > thead > tr > td, table > tbody > tr > td, table > tfoot > tr > td {
     padding: 8px;
     line-height: 1.42857143;
     vertical-align: top;
-    border-top: 1px solid #4e4e4e;
+    border-top: 1px solid #cefefe;
 }
 th {
     text-align: left;
@@ -196,13 +196,13 @@ td, th {
     padding: 0;
 }
 table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th {
-    background-color: #4e4e4e;
+    background-color: #cefefe;
 }
 table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th, table > thead > tr > td, table > tbody > tr > td, table > tfoot > tr > td {
     padding: 8px;
     line-height: 1.42857143;
     vertical-align: top;
-    border-top: 1px solid #4e4e4e;
+    border-top: 1px solid #cefefe;
 }
 td, th {
     padding: 0;
