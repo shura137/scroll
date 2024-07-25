@@ -492,7 +492,7 @@ var COMMANDS = {
 			userAdd(nick);
 		});
 
-		pushMessage({ nick: '*', text: "Users online: " + nicks.join(", ") + ". This room's shared whiteboard: https://whiteboard-online.org/boards/magicscroll-/" + window.location.search.slice(1,) + " . Concurrent messaging and handwriting can be done by opening the whiteboard in a new window side by side."})
+		pushMessage({ nick: '*', text: "Users online: " + nicks.join(", ") + ". This room's shared whiteboard: https://whiteboard-online.org/boards/magicscroll-" + window.location.search.slice(1,) + " . Concurrent messaging and handwriting can be done by opening the whiteboard in a new window side by side."})
 	},
 
 	onlineAdd: function (args) {
