@@ -155,7 +155,7 @@ var frontpage = [
 	"|",
 	"|",
 	"|",
-	"| Made by [Filosophia](https://www.filosophia.line.pm), with whiteboard feature based on [whitebophir](https://github.com/lovasoa/whitebophir) and love :P",
+	"| Made by [Filosophia](https://info.filosophia.line.pm) with [hack.chat](https://github.com/AndrewBelt/hack.chat), also powered by [whitebophir](https://github.com/lovasoa/whitebophir) and love :P",
 	""
 ].join("\n");
 
