@@ -142,7 +142,7 @@ var frontpage = [
 	"|",
 	"|",
 	"## Whiteboard (beta)",
-	"| Every room is equipped with a shared online whiteboard (also hosted on our server) uniquely attached to the room. The link to the dedicated whiteboard is shown in the system welcome message, which is displayed upon entering the room.",
+	"| Every room is equipped with a shared online whiteboard uniquely attached to the room. The link to the dedicated whiteboard is shown in the system welcome message, which is displayed upon entering the room.",
 	"|",
 	"|",
 	"## Public rooms",
